@@ -7,7 +7,10 @@
     --paper: #fffdf7;
     --pixel-shadow: 0 8px 20px rgba(22, 18, 30, 0.08);
 }
-
+.emoji {
+    font-size: 1.8em;   /* Try 1.8em or 2em if you want them larger */
+    vertical-align: middle;
+}
 /* Base */
 * {
     box-sizing: border-box;
